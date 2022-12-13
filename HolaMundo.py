@@ -5,5 +5,3 @@ for i in range(5):
 print("el numero final es:", i + 1 )
 print("hola")
 print("hola")
-print("hola")
-print("hola")
